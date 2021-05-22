@@ -39,7 +39,7 @@ El archivo Excel ***lista_de_componentes.xlsx*** contiene 11 hojas donde se list
   * Hoja 10: Listado de **Notaciones** utilizadas en la tabla de **rent** donde hace una conversión directa de cada columna (1,2,...,7) a el Área de aplicación equivalente.
   * Hoja 11: Listado de **proveedores** y la confiabilidad que tiene cada uno.
 
-El archivo pythom: ***Data-py*** es la forma vectorial en la que se representaron los datos encontrados en ***lista_de_componentes.xlsx*** para su uso con los algoritmos de **Búsqueda Exhaustiva** y **NSGA II**.
+El archivo pythom: ***Data.py*** es la forma vectorial en la que se representaron los datos encontrados en ***lista_de_componentes.xlsx*** para su uso con los algoritmos de **Búsqueda Exhaustiva** y **NSGA II**.
 
 ## GLOSARIO
 
